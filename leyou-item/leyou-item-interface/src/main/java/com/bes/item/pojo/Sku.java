@@ -28,5 +28,4 @@ public class Sku {
     @Transient
     private Integer stock;
 
-    private Integer i;
 }
